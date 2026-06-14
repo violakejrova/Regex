@@ -3,11 +3,8 @@
 Seminárka do předmětu *Teoretická informatika* zaměřená na regulární výrazy
 v Pythonu a v Linuxu (grep).
 
-## Soubory
+ `regex.ipynb` – Jupyter notebook s Python kódem
 
-- `regex.ipynb` – Jupyter notebook s Python kódem
-- `havran.txt` – ukázkový text (úryvek z básně Havran, E. A. Poe, přel. J. Vrchlický)
-- `soubor.txt` – testovací soubor s e-maily, telefonními čísly a webovými adresami
 
 ## Co notebook dělá
 
